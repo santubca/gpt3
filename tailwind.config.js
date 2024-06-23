@@ -1,8 +1,12 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./src/**/*.{html,js}"],
+  content: ["./*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      fontSize:{
+        "18px":"1.125rem",
+      }
+    },
   },
   plugins: [],
 }
