@@ -5,3 +5,7 @@
 .tl-grad {
     background: linear-gradient(97.65deg, #AE67FA 0.33%, #F49867 93.35%);
   }
+
+  .tt-grad {
+    background: linear-gradient(97.65deg, #0F4279 0.33%, #2f7ac5 93.35% );
+  }
