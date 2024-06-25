@@ -2,17 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.blue-nav{
-    background: radial-gradient(
-        #002853 100%
-    );
-
-    .grad-2 {
-        background: linear-gradient(
-          
-          #AE67FA -6.96%,
-          #AE67FA 23.5%,
-          #F498 92.79%
-        );
-    }
-}
+.tl-grad {
+    background: linear-gradient(97.65deg, #AE67FA 0.33%, #F49867 93.35%);
+  }
